@@ -8,5 +8,6 @@ it will be coming tommorow when i learn html with tanay.
 for now, I know:
 
 1. Javascript
-1. Python
-1. Repl.it 
+2. Repl.it
+3. Python
+4. Some Dsa Questions 
