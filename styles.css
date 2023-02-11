@@ -1,0 +1,23 @@
+body{
+    color: red;
+}
+ h1{
+    color: aquamarine;
+ }
+
+ h2 {
+    color: rgb(204, 236, 27);
+
+ }
+
+ link{
+    color: grey;
+ }
+
+#lib-header{
+    color: blueviolet;
+}
+
+.para{
+    color: brown;
+}
