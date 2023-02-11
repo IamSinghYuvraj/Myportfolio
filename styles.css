@@ -1,6 +1,18 @@
+/**typography**/
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 
 body{
     font-family: 'Poppins', sans-serif;
+}
+
+/**container**/
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.container-center{
+    max-width: 600px;
+    margin: auto;
 }
