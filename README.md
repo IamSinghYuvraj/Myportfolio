@@ -3,7 +3,7 @@ hey ! welcome to my portfolio.
 
 
 
-it will be coming tommorow when i learn html with tanay.
+This Website is made by me using HTML and CSS after learning it on youtube from tanay pratap.
 
 for now, I know:
 
